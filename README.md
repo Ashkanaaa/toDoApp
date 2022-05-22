@@ -3,6 +3,8 @@
 This is a simple Todo app to keep track of your daily tasks.
 This project is inspired from another project on github. 
 
+Here is the liknk to that project:
+[The github link](https://github.com/wynand1004/Projects/blob/master/To-Do-List/)
 
 ## How to use
 
